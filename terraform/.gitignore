@@ -1,3 +1,4 @@
+# Terraform v1
 *.tfstate
 *.tfstate.backup
 
